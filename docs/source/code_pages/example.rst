@@ -1,0 +1,2 @@
+.. automodule:: tkds.example
+  :members:
